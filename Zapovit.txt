@@ -4,4 +4,6 @@ line 3
 Na Vkraini myliy,
 line 5
 I lany i gory - 
+line 7
+Bulo vydno, bulo chuty,
 Igor Will in my personal branch
