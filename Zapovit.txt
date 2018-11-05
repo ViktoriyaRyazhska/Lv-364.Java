@@ -1,6 +1,14 @@
 Zapovit Shevchenko T.
+
+! First
+
 Мене на могилі
 Як реве ревучий.
 У синєє море
 РќР° Р’РєСЂР°С—РЅС– РјРёР»С–Р№,
+ HEAD
+ a627c91d7a445463843ad0b5142d226eadef9051
+ d87ea14a38caa00a24633edc14aac28575335f47
+
 Igor-Will
+ce0427f0475243c2446cc736c8b42114f8c1b0d9
