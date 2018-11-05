@@ -1,19 +1,7 @@
-<<<<<<< HEAD
-Zapovit Shevchenko T.
-
-! First
-
-Ìåíå íà ìîãèë³
-ßê ðåâå ðåâó÷èé.
-Ó ñèíºº ìîðå
-ÐÐ° Ð’ÐºÑ€Ð°Ñ—Ð½Ñ– Ð¼Ð¸Ð»Ñ–Ð¹,
- HEAD
- a627c91d7a445463843ad0b5142d226eadef9051
- d87ea14a38caa00a24633edc14aac28575335f47
-
-Igor-Will
-ce0427f0475243c2446cc736c8b42114f8c1b0d9
-=======
+Igor Will
+line 2 maks
 line 3
+Na Vkraini myliy,
 line 5
->>>>>>> 2388911c0bf7a0969b7a8a03437c889f1cb1de0f
+I lany i gory - 
+Igor Will in my personal branch
