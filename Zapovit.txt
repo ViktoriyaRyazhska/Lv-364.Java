@@ -7,4 +7,5 @@ line 5
 I lany i gory - 
 Yak reve revuchyi.
 Igor Will in my personal branch
->>>>>>> c7c82bd12632e2fc18731ac85bb350242d0f51a9
+line 15
+Ya ne znaiu Boha.
